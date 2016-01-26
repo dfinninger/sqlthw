@@ -2,5 +2,6 @@ CREATE TABLE person (
     id INTEGER PRIMAY KEY,
     first_name TEXT,
     last_name TEXT,
-    age INTEGER
+    age INTEGER,
+    net_worth INTEGER
 );
